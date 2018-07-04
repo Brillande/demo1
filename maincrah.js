@@ -1,0 +1,1 @@
+console.log('me paso todo el dia juagndo a fornite, esto no es minecraft, me encanta , que bueno')
